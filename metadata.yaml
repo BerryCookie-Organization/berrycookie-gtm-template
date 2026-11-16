@@ -1,0 +1,6 @@
+homepage: "https://berrycookie.com"
+documentation: "https://berrycookie.com/en/docs/google-tag-manager"
+versions:
+  - sha: PLACEHOLDER
+    changeNotes: |2
+      First release: BerryCookie banner, Consent Mode v2 defaults per region, returning visitors' choice applied at once.
