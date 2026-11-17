@@ -21,6 +21,10 @@ Every decision also pushes `berrycookie_consent_update` to the data layer, for y
 
 Full guide: [berrycookie.com/en/docs/google-tag-manager](https://berrycookie.com/en/docs/google-tag-manager)
 
+## Without the Gallery
+
+Until the template is listed in the Community Template Gallery, or to pin a version: download [`template.tpl`](template.tpl), then in Tag Manager open **Templates → Tag Templates → New → ⋮ → Import** and save.
+
 ## Support
 
 Questions or problems with the template: open an issue in this repository, or write to contact@berrycookie.com.
